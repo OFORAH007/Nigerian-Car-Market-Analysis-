@@ -1,7 +1,10 @@
 # Nigerian Car Market Analysis - Car45 Dashboard Project
 
 ### 📌 Overview
+---
 This project provides a comprehensive business intelligence dashboard visualizing vehicle trends in the Nigerian automobile market using real-time data sourced from Car45. It highlights the most in-demand brands, pricing benchmarks, fuel efficiency insights, color preferences, and transmission trends to support decision-making for dealers, buyers, auto-financiers, and marketers.
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 13, 2025, 04_17_22 PM" src="https://github.com/user-attachments/assets/e584f1f9-0380-437b-a5f3-dd926430abc3" />
 
 
 ### 🎯 Objective
@@ -19,6 +22,8 @@ To analyze and visualize vehicle sales trends in Nigeria using Power BI, offerin
 2. DAX	Advanced metrics & calculations
 3. Microsoft Excel - Data preprocessing, cleanup & visualization
 4. Car45.com - Primary data source
+   
+![teamwork-strategy-lead-business-success-generated-by-ai](https://github.com/user-attachments/assets/5542087f-5fde-4c1e-a47b-8fb4fa208cb7)
 
 
 ### 📁 Dataset
@@ -43,7 +48,8 @@ This dataset appears to be a comprehensive extract from the Nigerian vehicle mar
 4. Black is the most preferred car color, followed by Gray and Silver.
 5. Engine Size (3.1K cc) and Horsepower (28.4k hp) fall within moderate performance expectations.
 6. Most popular vehicles fall within the 2013–2023 model years.
-
+   
+<img width="1863" height="861" alt="Screenshot 2025-07-14 061249" src="https://github.com/user-attachments/assets/6a0492fb-e4e6-4bbb-ba6d-df9824999a7d" />
 
 ### 📈 Dashboard Highlights
 The interactive Microsoft Excel dashboard includes:
@@ -61,14 +67,14 @@ The interactive Microsoft Excel dashboard includes:
 3. Regional price variances not accounted for in visualization.
 
 
-🔮 Future Improvements
+### 🔮 <u>Future Improvements<u>
 1. Automate data pulls via web scraping or API (if Car45 provides).
 2. Add more granular features like fuel type, accident history, or location.
 3. Compare Nigerian market trends with Ghana, Kenya, or South Africa.
 4. Embed machine learning models to predict pricing or demand
 
 
-🙋‍♂️ About Me
+### 🙋‍♂️ <u>About Me<u>
 I’m a Data Analyst passionate about uncovering patterns in consumer markets. I specialize in Excel, Power BI, SQL, and Python for data storytelling and automation. Through this project, I demonstrated the power of local market analytics in decision-making.
 
 Special thanks to:
